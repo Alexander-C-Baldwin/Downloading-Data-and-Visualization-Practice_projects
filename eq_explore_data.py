@@ -2,7 +2,7 @@ import json
 
 # Explore the structure of the data.
 
-filename = "C:/Users/17857/OneDrive/Desktop/Python/pccdata/eq_data_1_day_m1.json"
+filename = "xxxxxxxxxx/eq_data_1_day_m1.json"
 with open(filename) as f:
     all_eq_data = json.load(f)
 

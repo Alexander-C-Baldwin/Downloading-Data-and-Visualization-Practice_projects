@@ -2,7 +2,7 @@ import csv
 from datetime import datetime
 import matplotlib.pyplot as plt
 
-filename = "C:/Users/17857/OneDrive/Desktop/Python/pccdata/sitka_weather_2018_simple.csv"
+filename = "xxxxxxxxxxx/sitka_weather_2018.csv"
 
 with open(filename) as f:
     reader = csv.reader(f)
